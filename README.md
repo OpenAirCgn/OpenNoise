@@ -1,4 +1,4 @@
-#OpenNoise
+# OpenNoise
 
 Open Source Hardware for noise level monitoring
 
